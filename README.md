@@ -1,4 +1,4 @@
-# Conectar SQL Server con Python 3
+# Conectar SQL Server con Python 3 1
 Mira el tutorial en: https://parzibyte.me/blog/2019/06/14/conexion-sql-server-python-pyodbc-crud/
 
 
